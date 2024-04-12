@@ -3,4 +3,4 @@
 
 
 ## Tasks
-+ creating an apping with the different use of internationalization
++ creating an app with the use of internationalization
